@@ -2,8 +2,6 @@
 
 **CSE Student @ BRAC University** · Dhaka, Bangladesh
 
-> *"as long as i'm alive there are infinite chances"*
-
 ---
 
 ## About me
@@ -27,8 +25,9 @@
 
 ## Current focus
 
-- 🔄 Completing Python and Java
-- 🔄 Dive into AI/ML
+- 🔄 Completing Python and Java (In progress) 
+- 📑 DSA
+- 📑 Dive into AI/ML
 
 ---
 
@@ -41,4 +40,4 @@
 
 ---
 
-*"Keep going. The green squares don't lie."*
+> *"as long as i'm alive there are infinite chances"*

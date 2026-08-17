@@ -5,7 +5,7 @@
 
 ## About me
 - 🎓 4th semester CSE student at **BRAC University**
-- 🐍 Completed **CS50's Introduction to Python** (Harvard)
+- 🐍 Completed **Python**
 - ☕ Completed **Java**
 - 👁️ Diving deep into **OpenCV** & Computer Vision
 - 🎯 Long-term goal: work at a top international tech company in AI/ML
@@ -32,7 +32,8 @@
 ## Repos
 | Repo | What's inside |
 |------|---------------|
-| [Facial-Recognition-Attendance-System-v2](https://github.com/estiuk-zaman/Facial-Recognition-Attendance-System-v2) | OpenCV (YuNet ONNX) based facial recognition attendance system |
+| [Facial-Recognition-Attendance-System](https://github.com/estiuk-zaman/Facial-Recognition-Attendance-System.git) | OpenCV (YuNet ONNX) based facial recognition attendance system |
+| [Facial-Recognition-Attendance-System-v2](https://github.com/estiuk-zaman/Facial-Recognition-Attendance-System-v2) | SFace |
 | [CS50_practicing_python](https://github.com/estiuk-zaman/CS50_practicing_python) | My CS50P Practice |
 | [cse_activities](https://github.com/estiuk-zaman/cse_activities) | University Courses activity |
 
